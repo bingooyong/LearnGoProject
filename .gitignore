@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+var/
+public/
+
+/go-dump-server/go-dump-server
