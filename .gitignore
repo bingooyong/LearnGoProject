@@ -4,3 +4,5 @@ var/
 public/
 
 /go-dump-server/go-dump-server
+
+/go-webconsole/webconsole

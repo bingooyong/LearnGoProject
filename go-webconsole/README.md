@@ -8,12 +8,19 @@ This is a small component of a much larger system including authentication, acce
 
 ## Getting
 
-```
+```bash
 go get github.com/lvyong/LearnGoProject/go-webconsole
 ```
 
 ## Running
-```
+
+```bash
 go build ./
 ./webconsole -assets `pwd`
+```
+
+## UI
+
+```bash
+http://localhost:3000/assert/
 ```
